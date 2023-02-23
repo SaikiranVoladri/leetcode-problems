@@ -1,3 +1,5 @@
+import javax.swing.plaf.synth.SynthOptionPaneUI;
+
 public class classroom {
    
         public static boolean isPalindrome(int x) {
@@ -19,6 +21,7 @@ public class classroom {
             int x=-121;
            int   y=23;
            int sum = x+y;
+        //    SynthOptionPaneUI
            System.out.println(sum);
           System.out.println(  isPalindrome(x));
         }
