@@ -6,6 +6,10 @@ public class classroom {
             if(x<0){
                 return false;
             }
+           
+           //wohudG  UD
+           //W VDBI
+           //J HODSI hl
             int rem=0;
             int curr=x;
             int rev=0;
