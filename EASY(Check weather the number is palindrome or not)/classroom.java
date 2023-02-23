@@ -13,9 +13,13 @@ public class classroom {
                 x=x/10;
             }
             return  rev==curr;
+
         }
         public static void main(String[] args) {
             int x=-121;
+           int   y=23;
+           int sum = x+y;
+           System.out.println(sum);
           System.out.println(  isPalindrome(x));
         }
        
